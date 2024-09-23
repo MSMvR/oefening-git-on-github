@@ -1,4 +1,6 @@
-# oefening-git-on-github
+Ga eens wat minder bier drinken
+
+Ga meer slapen
 
 iedereen heeft ongelijk in de wereld
 
