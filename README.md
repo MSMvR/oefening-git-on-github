@@ -8,6 +8,4 @@ we leven in een simulatie of in het midden van een zwart gat
 
 we gaan dik ouwe
 
-fuck liefde
-
-And now I've edited this file on the `main`-branch.
+fuck liefde And now I've edited this file on the `main`-branch.
