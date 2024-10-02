@@ -13,4 +13,4 @@ fuck liefde Now I've edited this file on the `second-branch`-branch.
 je stinkt
 ...
 
-And now I've edited this file on the `main`-branch. **I add some text to the same line but now on `main`, will this give me a conflict?**
+And now I've edited this file on the `main`-branch. **I've added some text to this line now from the branch `conflicting-instructions`**
